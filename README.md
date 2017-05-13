@@ -17,7 +17,7 @@ code, without the need for code repetition and without runtime type errors. [Tor
 This project demonstrates partial and full solutions to expression problem on the example of Tree structure.
 There are more solutions possible, but those too difficult for real usage.
 
-Operation on tree: depth, sum,  max
+Operation on tree: depth, sum,  max  
 Model on tree: Node(left, right), Leaf(value), TripleNode(left, center, right)
 
 ## Tree ADT
