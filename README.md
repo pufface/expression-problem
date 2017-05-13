@@ -21,13 +21,13 @@ Operation on tree: depth, sum,  max
 Model on tree: Node(left, right), Leaf(value), TripleNode(left, center, right)
 
 ## Tree ADT
-Tree implemented with Functional approach (Algebraic Data Types)
+Tree implemented with Functional approach (Algebraic Data Types).
 
 - easy to add operation without modification existing code
 - hard to add model
 
 ## Tree OO
-Tree implemented with Object Oriented approach
+Tree implemented with Object Oriented approach.
 
 - easy to add model without modification existing code
 - hard to add operation
