@@ -44,3 +44,10 @@ Tree implemented with Object Algebra approach [Bruno].
 
 - can extend both model and operations
 - bit harder concept to follow
+
+## Tree Implicits
+Tree implementation with Scala implicits
+
+- can extend both model and operations
+- nice concept of implicits, quite elegant solutions of expression problem
+- need importing them explicitly 
